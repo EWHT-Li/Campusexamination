@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Eworld.qml</file>
+        <file>main.qml</file>
+        <file>WelcomePage.qml</file>
+        <file>ControlPage.qml</file>
+        <file>ProtectEyePage.qml</file>
+        <file>MassagePage.qml</file>
+        <file>CheckSeeResult.qml</file>
+        <file>Chart.qml</file>
+        <file>EyeResultChart.qml</file>
+        <file>AdjustSeeResult.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>source/image/eyebackground.jpg</file>
+        <file>source/image/loading.png</file>
+        <file>source/image/setBackground.jpg</file>
+        <file>source/image/eyebackground.png</file>
+        <file>source/image/welcometext.png</file>
+        <file>source/image/controlbackground.png</file>
+        <file>source/image/massagebutton.png</file>
+        <file>source/image/protecteyebutton.png</file>
+        <file>source/image/testbutton.png</file>
+        <file>source/image/massageheadhere.png</file>
+        <file>source/image/background.jpg</file>
+        <file>source/image/1.png</file>
+        <file>source/image/2.png</file>
+        <file>source/image/3.png</file>
+        <file>source/image/eWorldInit.png</file>
+        <file>source/image/breakChart.png</file>
+        <file>source/image/statistics.png</file>
+        <file>source/image/returnbutton.png</file>
+        <file>source/image/adjustSeeValue.png</file>
+        <file>source/image/adjustCheckButton.png</file>
+    </qresource>
+</RCC>

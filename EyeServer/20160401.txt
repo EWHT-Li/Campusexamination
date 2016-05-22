@@ -1,0 +1,1 @@
+LiLANMangeServer已经用LiLocatServerTest中的替换了

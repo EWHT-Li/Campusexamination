@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WelcomePage.qml</file>
+        <file>ControlPage.qml</file>
+        <file>MassagePage.qml</file>
+        <file>SaunaPage.qml</file>
+        <file>source/Voice/backgroundmusic.mp3</file>
+        <file>CheckBlackCycle.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>source/Image/facebackground.png</file>
+        <file>source/Image/initing.png</file>
+        <file>source/Image/welcometext.png</file>
+        <file>source/Image/Facecheck.png</file>
+        <file>source/Image/Facemassage.png</file>
+        <file>source/Image/Facesauna.png</file>
+        <file>source/Image/cancelButton.png</file>
+        <file>source/Image/confirmButton.png</file>
+        <file>source/Image/homing.png</file>
+        <file>source/Image/leftresiduetime.png</file>
+        <file>source/Image/rightresiduetime.png</file>
+        <file>source/Image/setTimeText.png</file>
+        <file>source/Image/sideText.png</file>
+        <file>source/Image/updownButton.png</file>
+        <file>source/Image/valuedisplayarea.png</file>
+        <file>source/Image/initialing.png</file>
+        <file>source/Image/saunaresiduetime.png</file>
+        <file>source/Image/headhere.png</file>
+        <file>source/Image/checking.png</file>
+        <file>source/Image/welcomebackg.png</file>
+        <file>source/Image/Cpbackground.png</file>
+        <file>source/Image/massagesettime.png</file>
+        <file>source/Image/massageresiduetime.png</file>
+        <file>source/Image/saunasetTime.png</file>
+    </qresource>
+</RCC>
